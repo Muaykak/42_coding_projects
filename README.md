@@ -11,4 +11,4 @@ All my projects in 42 coding school
 [> **NetPractice**](./Netpractice/README.md) (about IP Address, Subnet mask)
 
 ## C++ Projects
-[> **CPP_00**](./c++_learning/README.md) (Introduction to C++ programming language)
+[> **CPP_00**](./c++_learning/cpp00/README.md) (Introduction to C++ programming language)
