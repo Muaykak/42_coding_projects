@@ -14,4 +14,10 @@ As from the **Wikipedia** said, it is a **high-level, general-purpose programmin
 
 Mainly, this project will use c++98 version, it's really old but i think my school want their student to greatly understand the fundamental concepts 
 
-All the c++ exercises will need to use this flag when compiling : ``-std=c++98`` 
+All the c++ exercises will need to use this flag when compiling : ``-std=c++98``
+
+## Exercises List
+
+Each exercise will gradually introduced new concepts and let us move to c++ from c more easily And don't feel that much overwhelm.
+
+ 
